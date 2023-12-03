@@ -8,7 +8,7 @@ Table 1- Average k-mers per read for every genus across all coral species.
 
 Table 2- Symbiodinaceae proteins that had at least one unique diseased read align to the UniRef50 cluster (paired reads classified separately) for each coral species.
 
-Table 3- Hits to the Virulence Factor Database by assembled contigs that were classified as *Vibrio* by KrakenUniq (supplemental_tables/vibrio_contigs_assembled.fa).
+Table 3- Hits to the Virulence Factor Database by assembled contigs(supplemental_tables/vibrio_contigs_assembled.fa) that were classified as *Vibrio* by KrakenUniq.
 
 Table 4- Alignment rates of reads classified as *Vibrio* to eight draft assemblies of *Vibrio* species isolated from SCTLD infected corals by Ushijima *et al.* 2020.
 
