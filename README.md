@@ -1,6 +1,6 @@
 # Overview 
 ### KrakenUniq_results
-Contains the KrakenUniq classification report files for the unique diseased reads of every coral species
+Contains the KrakenUniq classification report files for the unique diseased reads of every coral species and the classifications of the assembled contigs.
 ### mmseqs2_results
 Contains the MMseqs2 classification report files for the unique diseased reads (paired reads classified separately) of every coral species 
 ### supplemental_tables
